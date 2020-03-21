@@ -32,8 +32,7 @@ But it’s still a lot better then nothing.</p>
 <p>Distribute them to your local healthcare workers.</p>
 <p>If you have any suggestion how to improve this page<br>
 please let us know.</p>
-<p>Dutch customers can order these right know at:<br>
-<a href="mailto:info@samosa.nl">info@samosa.nl</a> (please include delivery address,<br>
+
 Guus can be reached at <a href="mailto:info@samosa.nl">info@samosa.nl</a><br>
 I can be reached at  <a href="mailto:glasses@rax-ip.com">glasses@rax-ip.com</a>.</p>
 
