@@ -23,5 +23,7 @@ Distribute a leaflet to your local health authorities to let them know you can h
 <li>Bend the acrylic.</li>
 <li>Cut straps.</li>
 <li>Assemble the glasses.</li>
+<li>Package the glasses.</li>
 </ol>
+<p>Distribute them to your local healthcare workers.</p>
 
