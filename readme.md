@@ -14,6 +14,10 @@ With some refinement he’s about to start small scale production (100 glasses p
 <p>Next:<br>
 Awareness:<br>
 Distribute a leaflet to your local health authorities to let them know you can help them.</p>
+<p>**</p>
+<h2 id="make-sure-you-let-the-health-authorities-know-these-glasses-wont-be-certified.">Make sure you let the health authorities know these glasses won’t be certified.</h2>
+<p>**<br>
+But it’s still a lot better then nothing.</p>
 <p>Production:</p>
 <ol>
 <li>Find a local machine shop with a laser cutter.</li>
@@ -26,4 +30,10 @@ Distribute a leaflet to your local health authorities to let them know you can h
 <li>Package the glasses.</li>
 </ol>
 <p>Distribute them to your local healthcare workers.</p>
+<p>If you have any suggestion how to improve this page<br>
+please let us know.</p>
+<p>Dutch customers can order these right know at:<br>
+<a href="mailto:info@samosa.nl">info@samosa.nl</a> (please include delivery address,<br>
+Guus can be reached at <a href="mailto:info@samosa.nl">info@samosa.nl</a><br>
+I can be reached at  <a href="mailto:glasses@rax-ip.com">glasses@rax-ip.com</a>.</p>
 
