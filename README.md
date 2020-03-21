@@ -10,6 +10,6 @@ With some refinement he's about to start small scale production (100 glasses per
 
 First check out the video he has produced documenting all the required steps.
 
-<iframe width="956" height="538" src="https://www.youtube.com/embed/u8RTdjMwDoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Youtube Video]("https://www.youtube.com/embed/u8RTdjMwDoo)
 
 
