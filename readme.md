@@ -11,4 +11,17 @@ With some refinement he’s about to start small scale production (100 glasses p
 <p>#How to produce</p>
 <p>First check out the video he has produced documenting all the required steps.</p>
 <p><a href="https://www.youtube.com/embed/u8RTdjMwDoo">Youtube Production Video</a></p>
+<p>Next:<br>
+Awareness:<br>
+Distribute a leaflet to your local health authorities to let them know you can help them.</p>
+<p>Production:</p>
+<ol>
+<li>Find a local machine shop with a laser cutter.</li>
+<li>Order 3mm thick plexiglass</li>
+<li>Start cutting the plexiglass using the cutting file from github <a href="https://raw.githubusercontent.com/CrazybernieNL/safetyglasses/master/safety%20glasses%20cut%20file.dxf">Cutting File</a> or from <a href="https://coronaglasses.blob.core.windows.net/files/safetyglassescutfile.dxf">Azure</a></li>
+<li>Use a tablerouter to remove sharp edges from the cut plexiglass.</li>
+<li>Bend the acrylic.</li>
+<li>Cut straps.</li>
+<li>Assemble the glasses.</li>
+</ol>
 
